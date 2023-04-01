@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Kaul</h1>
-<h3 align="center">aA passionate frontend developer from India,Im skilled in reactjs and I have a good knowledge of c/c++. I have built several projects in using ReactJs and javascript and I'm really comfotable with these technologies.</h3>
+<h3 align="center">A passionate frontend developer from India,Im skilled in reactjs and I have a good knowledge of c/c++. I have built several projects in using ReactJs and javascript and I'm really comfotable with these technologies.</h3>
 
 - 💬 Ask me about **React,C/C++**
 
