@@ -1,11 +1,11 @@
 <div>
-<img  alt="Coding" widht="50%" src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/text.gif"/>
-<img  alt="Coding" widht="50%"  src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/wave.gif"/>
+<img  alt="Coding" width="50%" src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/text.gif"/>
+<img  alt="Coding" width="50%"  src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/wave.gif"/>
   <hr>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aryan Kaul</h1>
-<h3 align="center">A passionate frontend developer from India,I am skilled in reactjs and I have a good knowledge of c/c++. I have built several projects using ReactJs and javascript and I'm really comfortable with these technologies.</h3>
+<h3 align="center">A passionate frontend developer from India,I am skilled in reactjs and I have good knowledge of c/c++. I have built several projects using ReactJs and javascript and I'm really comfortable with these technologies.</h3>
 
 - 💬 Ask me about **React,C/C++**
 
