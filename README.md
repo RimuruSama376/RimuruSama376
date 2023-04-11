@@ -1,11 +1,11 @@
 <div>
-<img  alt="Coding" width="400" src="https://assets.leetcode.com/users/images/c34e062c-8e9c-4b89-b711-884be7576a1a_1645851920.0703163.gif"/>
-<img align="right" alt="Coding" width="400" src="https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif"/>
+<img  alt="Coding" width="50%vh" src="https://assets.leetcode.com/users/images/c34e062c-8e9c-4b89-b711-884be7576a1a_1645851920.0703163.gif"/>
+<img align="right" alt="Coding" width="50%vw" src="https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif"/>
   <hr>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aryan Kaul</h1>
-<h3 align="center">A passionate frontend developer from India,Im skilled in reactjs and I have a good knowledge of c/c++. I have built several projects in using ReactJs and javascript and I'm really comfotable with these technologies.</h3>
+<h3 align="center">A passionate frontend developer from India,I am skilled in reactjs and I have a good knowledge of c/c++. I have built several projects using ReactJs and javascript and I'm really comfortable with these technologies.</h3>
 
 - 💬 Ask me about **React,C/C++**
 
