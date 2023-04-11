@@ -1,6 +1,6 @@
 <div>
-<img  alt="Coding"  src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/text.gif"/>
-<img  alt="Coding"  src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/wave.gif"/>
+<img  alt="Coding" widht="50%" src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/text.gif"/>
+<img  alt="Coding" widht="50%"  src="https://raw.githubusercontent.com/RimuruSama376/gifsForReadme/main/gifs/wave.gif"/>
   <hr>
 </div>
 
